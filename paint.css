@@ -1,0 +1,94 @@
+#home{
+    padding: 1%;
+    background-color:rgba(86, 75, 89, 0.5);
+    
+}
+#abc{
+    background-color: rgb(223, 201, 201);
+    padding: 40%;
+    text-size-adjust: 400px;
+    padding-left: 40px;
+    padding-top: 20px;
+    font-style: italic;
+    text-decoration-color: aquamarine;
+    color: aliceblue;
+    text-align: justify;
+    
+}
+#a{
+    position: absolute;
+    padding-left: 500px;
+    padding-right: 5px;
+    padding-top: 200px;
+    
+   
+}
+#pqr{
+    background-color: rgb(230, 219, 240);
+    padding: 25%;
+    height: 400px;
+    padding-left: 600px;
+    padding-top: 20px;
+}
+#xyz{
+    width: 350px;
+    padding-left: 250px;
+    padding-top: 50px;
+
+}
+.img{
+    position: absolute;
+}
+#rac{
+    max-width: 380px;
+    padding-top:  30px;
+    padding-left: 800px;
+}
+#aaa{
+    position: absolute;
+    width: 300px;
+    padding-top: 90px;
+    padding-left: 10px;
+    height: 340px;
+}
+#sam{
+    background-color: rgb(114, 158, 232);
+    color: black;
+    height: 140px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    border-radius: 5px;
+}
+#b{
+    background-color: rgba(112, 10, 184,0.4);
+    height: 190px;
+    text-align: center;
+    border-radius: 5px;
+    font-family: Courier;
+}
+#d{ 
+    position: absolute;
+    margin-left: -570px;
+    margin-top: 10px;
+    width: 480px;
+    
+  
+}
+#f{
+    position: absolute;
+    padding-top: 450px;
+    margin-left:-550px;
+    width: 350px;
+    
+}
+#g{
+    padding-top: 470px;
+    padding-left: 200px;
+    position: absolute;
+}
+#op{
+    text-align: center;
+    text-decoration: none;
+}
